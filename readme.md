@@ -1,5 +1,9 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Asset Pipeline Poem
 
+I enjoyed this exercise and it was cool to see that between javascript and ruby, there are many options for rendering and manipulating content to serve the best functionality or user experience. I did not fully understand precompliling when working with scss files in amy previous project and this definitely illuminated the concept for me. I will definitely take advantage of this, especially when I gain more experience implementing the javascript that we learned into Ruby. I cloned and did not fork but I learned a cool method to work around it! 
+
+http://stackoverflow.com/questions/14290113/git-pushing-code-to-two-remotes
+
 **Objective:** Practice requiring CSS and JavaScript files in the Rails asset pipeline and precompiling assets.
 
 **Terms:**
